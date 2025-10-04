@@ -9,5 +9,12 @@ DATADIR = "../my-work/"
 
 with open (DATADIR + FILENAME, "rt") as fp:
     reader = csv.reader(fp, delimiter=",")
+    linecount = 0
+    total = 0
     for line in reader:
-        print (line)
+        if not linecount: # first row is header row
+            pass
+    else: # all subsequent rows
+        total += int(line[1])
+    linecount += 1
+print (f"average is {total/(linecount-1)}")
