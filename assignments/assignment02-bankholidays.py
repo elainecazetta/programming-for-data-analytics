@@ -1,4 +1,5 @@
 # Author: Elaine Cazetta
+# Source: https://www.w3schools.com/python/module_requests.asp ; OpenAI;
 
 # This program prints out the dates of the bank holidays that happen in northern Ireland:
 
