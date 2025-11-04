@@ -1,10 +1,11 @@
 # Programming for Data Analytics 
 
-This repository contains my work for the **Programming for Data Analytics** module, part of the Science in Computing (Data Analytics) course at [Atlantic Technological University (ATU)](https://www.atu.ie/). 
-Author: [Elaine R. Cazetta](https://github.com/elainecazetta)
-Lecturer: [Andrew Beatty](https://github.com/andrewbeattycourseware/andrewbeattycourseware)
+This repository contains my work for the **Programming for Data Analytics** module, part of the Science in Computing (Data Analytics) course at [Atlantic Technological University (ATU)](https://www.atu.ie/).  
 
 The module focuses on developing Python programming and data analytics skills, including data retrieval, cleaning, analysis, visualization, and the use of libraries such as **Pandas**, **NumPy**, **Matplotlib**, and **scikit-learn**.
+
+Author: [Elaine R. Cazetta](https://github.com/elainecazetta)  
+Lecturer: [Andrew Beatty](https://github.com/andrewbeattycourseware/andrewbeattycourseware)  
 
 ---
 
