@@ -58,7 +58,7 @@ A comprehensive end-of-year project to demonstrate the skills learned throughout
 
 You can open and run the notebooks or Python scripts in this repository in a few different ways:
 
-### Option 1: Using GitHub Codespaces (Recommended)
+### Option 1: Using GitHub Codespaces
 1. Click the green **"Code"** button at the top of this repository.
 2. Select **"Open with Codespaces" → "New codespace"**.
 3. Once it loads, you can open any `.ipynb` notebook and run the cells directly in your browser — no setup needed.
@@ -68,13 +68,10 @@ You can open and run the notebooks or Python scripts in this repository in a few
    ```bash
    git clone https://github.com/elainecazetta/programming-for-data-analytics.git
 2. Open the folder in VS Code or Jupyter Notebook.
-3. (Optional) Create and activate a virtual environment:
-python -m venv venv
-source venv/bin/activate   # On Mac/Linux
-venv\Scripts\activate      # On Windows
-4. Install dependencies:
+3. Install dependencies:
+   ```bash
 pip install -r requirements.txt
-5. Open and run the .ipynb notebooks or .py files.
+4. Open and run the `.ipynb` notebooks or `.py` files.
 
 ---
 
