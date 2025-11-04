@@ -70,8 +70,8 @@ You can open and run the notebooks or Python scripts in this repository in a few
 2. Open the folder in VS Code or Jupyter Notebook.
 3. Install dependencies:
    ```bash
-pip install -r requirements.txt
-4. Open and run the `.ipynb` notebooks or `.py` files.
+pip install -r requirements.txt  
+4. Open and run the `.ipynb` notebooks or `.py` files.  
 
 ---
 
