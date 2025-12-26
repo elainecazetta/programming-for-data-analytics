@@ -1,5 +1,5 @@
+pandas
 numpy
 matplotlib
-pandas
 seaborn
 yfinance
