@@ -38,10 +38,10 @@ From your repository folder, run:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
+```
+---  
 
----
-
-## 3) How to use the code
+## 3) How to use the code  
 
 ### Run in Jupyter Notebook
 1. Open Jupyter Notebook:
