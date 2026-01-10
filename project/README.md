@@ -1,5 +1,10 @@
 # Housing, Population, and Immigration Trends in Ireland (Census Analysis)
 
+Author: [Elaine R. Cazetta](https://github.com/elainecazetta)  
+Lecturer: [Andrew Beatty](https://github.com/andrewbeattycourseware/andrewbeattycourseware)  
+
+---
+
 ## 1) What this repository contains
 This repository contains a Jupyter Notebook project that analyses Irish Census-related data to explore:
 
@@ -59,3 +64,5 @@ jupyter notebook
 5. Click **Run All**
 
 ---
+
+## End
